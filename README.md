@@ -1,6 +1,6 @@
 ### <div align="center">Hi there 👋</div>
 
-<img  scale="40%" align="right" src="https://github.com/hixtrik/hixtrik/blob/main/res/itcrowd.gif" alt="Gif" />
+<img width="40%" align="right" src="https://github.com/hixtrik/hixtrik/blob/main/res/itcrowd.gif" alt="Gif" />
 
 ### <div align="center">👨‍💻 I'm enthusiastic about Android and Flutter.</div>  
 <br/>
