@@ -1,4 +1,4 @@
-### Hi there 👋
+### <div align="center">Hi there 👋</div>
 
 <img align="right" src="https://github.com/hixtrik/hixtrik/blob/main/res/itcrowd.gif" alt="Gif" />
 
