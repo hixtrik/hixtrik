@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<img align="right" src="https://github.com/hixtrik/hixtrik/blob/main/res/itcrowd.gif" alt="Gif"/>
-###<div align="center">👨‍💻 I'm enthusiastic about Android and Flutter.</div>  
-<br/>
+<img align="right" src="https://github.com/hixtrik/hixtrik/blob/main/res/itcrowd.gif" alt="Gif" />
+### <div align="center">👨‍💻 I'm enthusiastic about Android and Flutter.</div>  
 
 <!--
 **hixtrik/hixtrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
