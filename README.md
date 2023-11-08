@@ -2,7 +2,7 @@
 
 <img width="40%" align="right" src="https://github.com/hixtrik/hixtrik/blob/main/res/itcrowd.gif" alt="Gif" />
 
-### <div align="center">👨‍💻 I'm enthusiastic about Android and Flutter.</div>  
+### <div align="center">👨‍💻 I'm enthusiastic about Android and Kotlin Multiplatform</div>  
 <br/>
 
 <!--
