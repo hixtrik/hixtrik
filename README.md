@@ -1,9 +1,10 @@
 ### <div align="center">Hi there 👋</div>
 
-<img width="40%" align="right" src="https://github.com/hixtrik/hixtrik/blob/main/res/itcrowd.gif" alt="Gif" />
-
 ### <div align="center">👨‍💻 I'm enthusiastic about Android and Kotlin Multiplatform</div>  
 <br/>
+<p align="center">
+ <img width="40%" align="center" src="https://github.com/hixtrik/hixtrik/blob/main/res/itcrowd.gif" alt="Gif" />
+</p>
 
 <!--
 **hixtrik/hixtrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
